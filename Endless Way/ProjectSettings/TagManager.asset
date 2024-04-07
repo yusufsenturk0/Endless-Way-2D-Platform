@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Zone
+  - Bullet
+  - Enemy
+  - Ground
+  - Hero
+  - transporter
+  - finish
+  - money
+  - Portal1
+  - Portal2
+  - Portal3
+  - Portal4
+  - Portal5
+  - Portal6
+  - Portal7
+  - Portal8
+  - Music
+  - Start
+  - LEFT
+  - RIGHT
+  - UP
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 930528981
+    locked: 0
+  - name: 2
+    uniqueID: 841380867
+    locked: 0
+  - name: 3
+    uniqueID: 3550553901
+    locked: 0
+  - name: 4
+    uniqueID: 1906151643
+    locked: 0
+  - name: 5
+    uniqueID: 2560507931
+    locked: 0
